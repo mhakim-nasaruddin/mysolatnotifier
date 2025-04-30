@@ -1,2 +1,2 @@
 # mysolatnotifier
-real time e-solat prayer times notifier using telegram chatbot
+Real-time e-solat prayer times notifier using telegram chatbot.
